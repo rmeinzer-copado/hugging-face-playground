@@ -26,4 +26,5 @@ def print_summary(result):
     print_gpu_utilization()
 
 # Verify initial GPU memory utilization
+# ToDo - bailed for  now on this as I need to setup NVIDIA Drivers that was taking too long
 print_gpu_utilization()
